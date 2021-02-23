@@ -1,0 +1,12 @@
+austria:
+  covidFaelle: 'https://covid19-dashboard.ages.at/data/CovidFaelle_Timeline.csv'
+  covidFallzahlen: 'https://covid19-dashboard.ages.at/data/CovidFallzahlen.csv'
+
+france:
+  hospTotal: 'https://www.data.gouv.fr/fr/datasets/r/63352e38-d353-4b54-bfd1-f1b3ee1cabd7'
+  testsDep: 'https://www.data.gouv.fr/fr/datasets/r/4180a181-a648-402b-92e4-f7574647afa6'
+  testsReg: 'https://www.data.gouv.fr/fr/datasets/r/23066f40-ddd2-40c9-931c-4257f36ad778'
+  testsFra: 'https://www.data.gouv.fr/fr/datasets/r/59ad717b-b64e-4779-85f6-cd1b25b24703'
+  capaDep: 'https://www.data.gouv.fr/fr/datasets/r/0c230dc3-2d51-4f17-be97-aa9938564b39'
+  capaReg: 'https://www.data.gouv.fr/fr/datasets/r/21ff3134-c37c-41ef-bb3d-fbea5f6d4a28'
+  capaFra: 'https://www.data.gouv.fr/fr/datasets/r/44b46964-8583-4f18-b93f-80fefcbf3b74'
